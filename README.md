@@ -3,8 +3,8 @@ As a data enthusiast, I believe in converting data into meaningful insights and 
 
 
 <br>
-<br>
-<br>
+
+
 
 
 ## Simple Demo of the HR Analytics Dashboard 
